@@ -1,1 +1,1 @@
-Demo : https://sergenakkaya.com/MorentCar/index.html
+Demo : [sergenakkaya.com.tr](https://www.sergenakkaya.com.tr/project/morentcar/)
